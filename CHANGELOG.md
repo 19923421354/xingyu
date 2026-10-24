@@ -1,5 +1,12 @@
 # 变更日志
 
+## v5.0.0 · 综合大版本
+
+- 三大方向升级：AI 能力增强 / 体验与界面 / 数据与工具
+- 版本体系统一至 5.0.0（与幻语AI、命运织机、MobileClaw 同步）
+- 运行方式不变：npm run web:build + npm run server
+
+
 本项目遵循 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/) 规范，版本号遵循 [Semantic Versioning](https://semver.org/lang/zh-CN/)。
 
 ## [Unreleased]
